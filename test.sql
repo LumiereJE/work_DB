@@ -1,1 +1,1 @@
-dddkjdkddk
+SELECT * FROM EMP;
